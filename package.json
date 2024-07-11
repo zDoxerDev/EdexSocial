@@ -2,7 +2,7 @@
   "name": "edexsocial",
   "version": "1.0.0",
   "description": "El backend completo de la red social minimalista llamada EdexSocial. Esto con microservicios , usuarios, posts, follow e interacciones.",
-  "main": "src/index.js",
+  "main": "src/api/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
